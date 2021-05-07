@@ -32,3 +32,5 @@ echo "modified ddl query2" $ddlquery2
 
 echo $(date +"%d-%m-%y-%r")
 # more /opt/SP/oracle/crm/siebsrvr/ddlsync/ddlsync_sql_CCSX21.4_A-56.log
+
+#Comment added for testing
